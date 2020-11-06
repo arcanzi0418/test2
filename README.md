@@ -1,1 +1,2 @@
-# test2
+# npm install
+# npm start
